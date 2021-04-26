@@ -2,7 +2,7 @@
 Technologies:
   - Rest API
 
-Application created for checking the weather for day, weather is based on your localization.
+Application created for checking the weather for today, weather is based on your localization.
 You can also find out what the weather is another city by searching for it by a city name.
 
 Used API: 
